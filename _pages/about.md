@@ -31,7 +31,7 @@ My research interest includes neural machine translation and computer vision. I 
 <div class='paper-box'><div class='paper-box-image'><img src='images/dido.gif' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-<font size=1>[DIDO: Deep Inertial Quadrotor Dynamical Odometry](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)size=1</font>
+[<font face="黑体">DIDO: Deep Inertial Quadrotor Dynamical Odometry</font>](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
 **AUTHORS** Kunyi Zhang, Chenxing Jiang, **<u>Jinghang Li</u>**, et al.
 
