@@ -28,19 +28,72 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📝 Publications 
 
+<hr class="uk-divider-small">
+
+### 2022
+
 <div class='paper-box'><div class='paper-box-image'><img src='images/dido.gif' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-**<font size=5>DIDO: Deep Inertial Quadrotor Dynamical Odometry</font>**
+<font size=5>DIDO: Deep Inertial Quadrotor Dynamical Odometry</font>
 
 **AUTHORS** Kunyi Zhang, Chenxing Jiang, **<u>Jinghang Li</u>**, et al.
 
-**IN PROCEEDINGS** IEEE Robotics and Automation Letter (RA-L with IROS 2022 option)
+**IN PROCEEDINGS** IEEE Robotics and Automation Letters with IROS 2022 [under review]
   
-📖[preprint](https://arxiv.org/pdf/2203.03149)&nbsp;&nbsp;&nbsp;📺[Video(bilibili)](https://www.bilibili.com/video/BV1dU4y1Z773) 
+📖[Preprint](https://arxiv.org/pdf/2203.03149)&nbsp;&nbsp;&nbsp;📺[Video (bilibili)](https://www.bilibili.com/video/BV1dU4y1Z773) 
 
 </div>
 </div>
+
+<div class='paper-box'><div class='paper-box-image'><img src='images/2022_lzr_TIE.jpg' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+<font size=5>Personalized Driver Braking Behavior Modelling in the Car-following Scenario: An Importance Weight-based Transfer Learning Approach</font>
+
+**AUTHORS** Zirui Li, Jianwei Gong, Chao Lu, **<u>Jinghang Li</u>**.
+
+**IN PROCEEDINGS** IEEE Transactions on Industrial Electronics, 2022
+  
+📖[Paper](https://ieeexplore.ieee.org/abstract/document/9700778)
+</div>
+</div>
+
+<hr class="uk-divider-small">
+
+### 2021
+
+<div class='paper-box'><div class='paper-box-image'><img src='images/2021_ljh_tvt.gif' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+<font size=5>Driver-Specific Risk Recognition in Interactive Driving Scenarios using Graph Representation</font>
+
+**AUTHORS** **<u>Jinghang Li</u>**, Chao Lu, Penghui Li, Zheyu Zhang, Cheng Gong, Jianwei Gong.
+
+**IN PROCEEDINGS** IEEE Transactions on Vehicular Technology, 2021 [under review]
+  
+📖[Preprint](https://arxiv.org/abs/2111.06342)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><img src='images/ped.gif' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+<font size=5>Prediction of Pedestrian Spatiotemporal Risk Levels for Intelligent Vehicles: A Data-driven Approach</font>
+
+**AUTHORS** Zheyu Zhang, Boyang Wang, Chao Lu, **<u>Jinghang Li</u>**, Cheng Gong, Jianwei Gong.
+
+**IN PROCEEDINGS** Transportation Research Part C: Emerging Technologies, 2021 [under review]
+  
+📖[Preprint](https://arxiv.org/abs/2111.03822)
+
+</div>
+</div>
+
+<hr class="uk-divider-small">
+
+### 2020
 
 **CVPR, 2016** \| [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
